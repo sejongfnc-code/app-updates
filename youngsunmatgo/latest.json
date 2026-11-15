@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "15.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.6/youngsunmatgo-15.0.6.apk",
-  "sha256": "ab5021e99fe4f2435ab1f62d4aeb47ba9b48593fbda27ed9b5489e65487e6a8e",
-  "notes": "15.0.6: 게임 중 실수로 한 번 눌러 나가지는 문제 수정 (끊김 안내 정확하게, 갑자기 뜬 창 0.7초 보호, 그만두기 확인)",
-  "size": 5911309
+  "versionCode": 7,
+  "versionName": "15.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.7/youngsunmatgo-15.0.7.apk",
+  "sha256": "c729c889787eb34eb0dfd57673ea7e177e13b3ba43e19f1257d4c40bb6ca30e9",
+  "notes": "15.0.7: 친구 대전에서 손패를 누르면 나가지던 문제 수정 (예전 화면의 그만두기 버튼이 남아 있던 문제), 앱 멈춤 보고",
+  "size": 5913337
 }
