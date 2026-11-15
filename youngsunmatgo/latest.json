@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "15.0.12",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.12/youngsunmatgo-15.0.12.apk",
-  "sha256": "729f436009063a8b7f2cc4212b6c09463c69a609b051d5209eadf7162c4c11fe",
-  "notes": "15.0.12: 카메라 사진이 채팅에 안 뜨던 문제 수정",
-  "size": 6005890
+  "versionCode": 13,
+  "versionName": "15.0.13",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.13/youngsunmatgo-15.0.13.apk",
+  "sha256": "be643e11fef8a55f962619967a1cf377c430dbd3432d82c0b6cb1b51a7b3c8f8",
+  "notes": "6시간 잠금 없앰(다 잃어도 다음 판 둘 다 10,000원, 예전 잠금 지움) · 앱 안 카메라(찍기/앞뒤 바꾸기)로 사진 바로 채팅에",
+  "size": 6012954
 }
