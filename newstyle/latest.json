@@ -1,8 +1,8 @@
 {
-  "versionCode": 110,
-  "versionName": "8.0.76",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v8.0.76/newstyle-8.0.76.apk",
-  "sha256": "09d0399282caf0a9804e815117f1e8123f86a8496fdcdb0638ec7b6d10d25d7c",
-  "notes": "8.0.76",
-  "size": 3035227
+  "versionCode": 111,
+  "versionName": "8.0.77",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v8.0.77/newstyle-8.0.77.apk",
+  "sha256": "12a2993dba6bdbd89f5c72d26ad040b9867895623f52d5b3701cef3fe41bf611",
+  "notes": "8.0.77",
+  "size": 3038563
 }
