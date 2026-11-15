@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "15.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.9/youngsunpoker-15.0.9.apk",
-  "sha256": "5965a8ca3f0327fd63879d9daf37445e63cb6b53a03ab05cbd1b1f85651d8dea",
-  "notes": "6시간 잠금 없앰(다 잃어도 다음 판 둘 다 10,000원, 예전 잠금 지움) · 앱 안 카메라(찍기/앞뒤 바꾸기)로 사진 바로 채팅에",
-  "size": 5726027
+  "versionCode": 10,
+  "versionName": "15.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.10/youngsunpoker-15.0.10.apk",
+  "sha256": "be476f1477ba430de01b30d346dc10f80089a8c8dc570a34ef2fa981e1c3cdaa",
+  "notes": "콜(0원 포함)은 언제나 그 바퀴를 바로 끝냄 — 체크 뒤 콜하면 바로 다음 장, 콜 뒤엔 아무도 못 올림",
+  "size": 5725967
 }
