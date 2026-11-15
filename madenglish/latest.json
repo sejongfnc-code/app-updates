@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "15.0.12",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.12/madenglish-15.0.12.apk",
-  "sha256": "97e421ebd4d8547110b9881b1eb38c58500b18f87edde0753eb4f7ee0828bb15",
-  "notes": "15.0.12: 19금도 반별 진도·문장, 단어·문장 번갈아, 반별 난이도 정리",
-  "size": 2693649
+  "versionCode": 13,
+  "versionName": "15.0.13",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.13/madenglish-15.0.13.apk",
+  "sha256": "4444b384bfc0bc4f1ff73419aa5e7bcbdbe709aa2a4f4341f7e6131f5b024db1",
+  "notes": "15.0.13: 쌤 칭찬·훈계 대사 사람 말투로, 문장마다 쉼·칭찬/훈계 톤",
+  "size": 2701373
 }
