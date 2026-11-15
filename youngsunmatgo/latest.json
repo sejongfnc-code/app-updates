@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "15.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.9/youngsunmatgo-15.0.9.apk",
-  "sha256": "5bdf75dde6819073c6ab2615c3b14a978113d8ede84f5f8d30ea021b9c061e30",
-  "notes": "15.0.9: 시작 돈 1만원(1점=10원), 게임 중 친구와 채팅·사진(카메라/사진 고르기), 다 잃으면 '소원 들어주면 돌려주마', 추억 앨범, 열받게 하기 😜, 자주 쓰는 버튼 오른쪽",
-  "size": 5952193
+  "versionCode": 10,
+  "versionName": "15.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.10/youngsunmatgo-15.0.10.apk",
+  "sha256": "72e1a49dea137936db839e3ccde3bd992abc6d0fe7f4e91fbab078ed90a19f55",
+  "notes": "15.0.10: 설정에서 보너스 쌍피 없음/1/2/3장 고르기 (친구 대전은 방장 설정), 친구 대전은 매번 둘 다 1만원으로 시작",
+  "size": 5990726
 }
