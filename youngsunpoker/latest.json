@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "15.0.4",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.4/youngsunpoker-15.0.4.apk",
-  "sha256": "d89eeeb35551aec72ea9deaac754333e65c9d4d328041f8509cc670de285bc0f",
-  "notes": "15.0.4: 친구랑 치기 끊김 방지 (보내기 실패 시 다른 서버로 계속 다시 보냄, 모든 서버에서 듣기, 빠진 수 바로 따라잡기)",
-  "size": 5674739
+  "versionCode": 5,
+  "versionName": "15.0.5",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.5/youngsunpoker-15.0.5.apk",
+  "sha256": "9dd116c19163d2f71c1dca37a0c97d8f7e2ba89f4a7f45637508167f7ad19617",
+  "notes": "15.0.5: 시작 돈 1만원(10원부터 베팅), 게임 중 친구와 채팅·사진(카메라/사진 고르기), 다 잃으면 '소원 들어주면 돌려주마', 추억 앨범, 열받게 하기 😜, 자주 쓰는 버튼 오른쪽",
+  "size": 5703247
 }
