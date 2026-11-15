@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "14.1.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.5/silver-home-14.1.5.apk",
-  "sha256": "15d6697c9bb34d3025d65b9d82237a35cd193f96f0643e725a0ab721012b83be",
-  "notes": "업데이트 주소 이전·통역 품질/소리·진동·손글씨 메모 저장·공유·새 버튼 6개",
-  "size": 38334066
+  "versionCode": 18,
+  "versionName": "14.1.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.6/silver-home-14.1.6.apk",
+  "sha256": "3698177c5485821adcb217d9b508bd30f0721e6267b5a55b6e2769b1339c0ae7",
+  "notes": "통역 읽어주기(TTS) 다시 넣고 소리 안 나던 문제 수정",
+  "size": 38334146
 }
