@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "15.0.4",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.4/origami-15.0.4.apk",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.4/origami-15.0.4.apk",
-  "sha256": "65a82f21219deef587e6124026eaa7c14b9edf459ad2bef2a95d947b60a71a7c",
+  "versionCode": 5,
+  "versionName": "15.0.5",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.5/origami-15.0.5.apk",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.5/origami-15.0.5.apk",
+  "sha256": "c4926cffc6055a4e48655b9020de61554ffce7749b646976182b53293db811f3",
   "package": "com.smh.origami",
-  "notes": "난이도 한 단계씩 올림 · 신급 도마뱀/악어/로봇 전사 · 입체 그림",
-  "size": 16522663
+  "notes": "눈으로 넘기기: 화면을 보면 자동으로 다음 장",
+  "size": 16539047
 }
