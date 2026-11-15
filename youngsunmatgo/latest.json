@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "15.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.10/youngsunmatgo-15.0.10.apk",
-  "sha256": "72e1a49dea137936db839e3ccde3bd992abc6d0fe7f4e91fbab078ed90a19f55",
-  "notes": "15.0.10: 설정에서 보너스 쌍피 없음/1/2/3장 고르기 (친구 대전은 방장 설정), 친구 대전은 매번 둘 다 1만원으로 시작",
-  "size": 5990726
+  "versionCode": 11,
+  "versionName": "15.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.11/youngsunmatgo-15.0.11.apk",
+  "sha256": "3de4fae649adcd21afa5c7d3d44ae55dcc0470b4b7d6960f10e83100d2974d01",
+  "notes": "15.0.11: 벌칙 사진 확실히 도착·확인=10,000원 전부·벌칙 중 다음 판 막기·친구별 오링 6시간 잠금·카톡식 채팅·시작 전 보너스 쌍피 고르기·막패 뻑",
+  "size": 6005218
 }
