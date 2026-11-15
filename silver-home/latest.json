@@ -1,0 +1,8 @@
+{
+  "versionCode": 16,
+  "versionName": "14.1.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.4/silver-home-14.1.4.apk",
+  "sha256": "c5fe153220a9dc80b8861518bcb5544510146d5eb0f787eb235cd4dead7ebff8",
+  "notes": "어두운 시계 화면 없애고 화면 닫기 누르면 바로 꺼지게",
+  "size": 38317126
+}

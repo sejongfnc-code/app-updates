@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "15.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gajjacall-v15.0.2/gajjacall-15.0.2.apk",
+  "sha256": "efc391d2754461cfccd714928ca4f8dd614f619af3b978b557c54afe5b678c86",
+  "notes": "통화 중 버튼 동작 · 근접 화면 끄기 · 30초 부재중",
+  "size": 730741
+}
