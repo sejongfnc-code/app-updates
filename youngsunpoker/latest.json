@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "15.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.3/youngsunpoker-15.0.3.apk",
-  "sha256": "b546615b0d0a0e1998099768ba175bcaa2cc730926b21d01e8914437e65d9970",
-  "notes": "15.0.3: 베팅할 때 남자 목소리 (삥·따당·콜·하프·체크·다이)",
-  "size": 5664723
+  "versionCode": 4,
+  "versionName": "15.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.4/youngsunpoker-15.0.4.apk",
+  "sha256": "d89eeeb35551aec72ea9deaac754333e65c9d4d328041f8509cc670de285bc0f",
+  "notes": "15.0.4: 친구랑 치기 끊김 방지 (보내기 실패 시 다른 서버로 계속 다시 보냄, 모든 서버에서 듣기, 빠진 수 바로 따라잡기)",
+  "size": 5674739
 }
