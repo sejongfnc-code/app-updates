@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "15.0.7",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.7/madenglish-15.0.7.apk",
-  "sha256": "fdf31c3152665971cebdbaa4fce650f761e3afeb7e24bccd61d88b1c35837fd4",
-  "notes": "쌤 사진 6장을 새로 바꿨어요.",
-  "size": 2458755
+  "versionCode": 8,
+  "versionName": "15.0.8",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.8/madenglish-15.0.8.apk",
+  "sha256": "60d8216fde74777e65a03dcc27c28a6fcf31cde7ce508b675e8fab44597cd1d6",
+  "notes": "뒤로가기를 누르면 앱이 꺼지지 않고 처음 화면으로 돌아가게 고쳤어요.",
+  "size": 2464135
 }
