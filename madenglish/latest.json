@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "15.0.14",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.14/madenglish-15.0.14.apk",
-  "sha256": "06eb6c0acedee91079327643064f63f29b42fb3552fa05a8022d6c216d67255d",
-  "notes": "15.0.14: 상황별 쌤 사진(쌤마다 10장, 기본·19금)",
-  "size": 3179433
+  "versionCode": 15,
+  "versionName": "15.0.15",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.15/madenglish-15.0.15.apk",
+  "sha256": "3eed2c3652a443e75a92f56017fd2f2aefdd47b3e6ab2600b6617e7802322dd0",
+  "notes": "15.0.15: 반마다 문장·단어 300개 이상으로 대폭 늘림(총 594→2,681), 한 바퀴 다 돌기 전엔 같은 문제 안 나오게 섞어서 출제, 쌤 멘트 상황별로 늘리고 최근 것 안 겹치게",
+  "size": 3315165
 }
