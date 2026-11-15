@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "15.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.3/madenglish-15.0.3.apk",
-  "sha256": "198f2ce7bc5f4edad73165ee0ac425c784cd8075b580d598a2c1c8c0180e1383",
-  "notes": "15.0.3: 따라 말하기 채점 고침(멈춤 해결·점수 카드·단어 색칠·실시간 받아쓰기), 통과해야 다음/3번 틀리면 건너뛰기, 오늘 수업 요약, 실사 남자/여자 쌤 선택",
-  "size": 2355763
+  "versionCode": 4,
+  "versionName": "15.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.4/madenglish-15.0.4.apk",
+  "sha256": "4f40cc09bda4b8b37cc9efee1a4da87665c21f97bb88d4341ced2b0692f52ad1",
+  "notes": "쌤 말투를 실제 사람처럼 자연스럽게 바꿨어요. ⓘ 메뉴에 '목소리·빠르기'를 넣어 한국어·영어 목소리와 말 빠르기를 고를 수 있어요.",
+  "size": 2373287
 }
