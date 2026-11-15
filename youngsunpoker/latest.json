@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "15.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.6/youngsunpoker-15.0.6.apk",
-  "sha256": "9894d6a60a0a321169f3ae5194bcc1b713a1358b6ec2bdc5634a736e4f2e464e",
-  "notes": "15.0.6: 체크 뒤 상대가 걸면 콜 버튼이 바로 눌리게, 게임 템포 약 2배 빠르게, 친구 대전은 매번 둘 다 1만원으로 시작",
-  "size": 5704067
+  "versionCode": 7,
+  "versionName": "15.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.7/youngsunpoker-15.0.7.apk",
+  "sha256": "ce14df1ffb84d652cefee17cee59d713c67afc6e954cfedfe1707555589e4c44",
+  "notes": "15.0.7: 벌칙 사진 확실히 도착·확인=10,000원 전부·벌칙 중 다음 판 막기·친구별 오링 6시간 잠금·카톡식 채팅·체크 뒤 0원 콜",
+  "size": 5716435
 }
