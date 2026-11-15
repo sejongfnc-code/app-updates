@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "15.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.10/madenglish-15.0.10.apk",
-  "sha256": "69eb3ff3670b9be35bdfe545c9d9c02fa9b1e42159ac56edeb6e93845d7ee491",
-  "notes": "15.0.10: 반 고르기가 처음 화면(메인). 공부·요약 화면 뒤로가기 → 반 고르기, 메인에서 뒤로가기 → 종료",
-  "size": 2654813
+  "versionCode": 11,
+  "versionName": "15.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.11/madenglish-15.0.11.apk",
+  "sha256": "6d4aa43eabb29b1cac17672b7a59c1e18d1df700c7aadd04f1ceea751b43057e",
+  "notes": "15.0.11: 들어보기는 영어만 읽기",
+  "size": 2653921
 }
