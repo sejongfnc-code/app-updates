@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "15.0.7",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.7/youngsunmatgo-15.0.7.apk",
-  "sha256": "c729c889787eb34eb0dfd57673ea7e177e13b3ba43e19f1257d4c40bb6ca30e9",
-  "notes": "15.0.7: 친구 대전에서 손패를 누르면 나가지던 문제 수정 (예전 화면의 그만두기 버튼이 남아 있던 문제), 앱 멈춤 보고",
-  "size": 5913337
+  "versionCode": 8,
+  "versionName": "15.0.8",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.8/youngsunmatgo-15.0.8.apk",
+  "sha256": "51312a01d676b12f6d3ed7194c8004e8acf37a25734289dc51973d53d8678d04",
+  "notes": "15.0.8: 친구 대전 멈춤 수정 (무료 서버 한도 초과 시 다른 서버로 다시 보내기), 한 수 10초 제한, 뒤로 한 단계씩, 보고창 제거",
+  "size": 5921925
 }
