@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "15.0.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.11/youngsunmatgo-15.0.11.apk",
-  "sha256": "3de4fae649adcd21afa5c7d3d44ae55dcc0470b4b7d6960f10e83100d2974d01",
-  "notes": "15.0.11: 벌칙 사진 확실히 도착·확인=10,000원 전부·벌칙 중 다음 판 막기·친구별 오링 6시간 잠금·카톡식 채팅·시작 전 보너스 쌍피 고르기·막패 뻑",
-  "size": 6005218
+  "versionCode": 12,
+  "versionName": "15.0.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.12/youngsunmatgo-15.0.12.apk",
+  "sha256": "729f436009063a8b7f2cc4212b6c09463c69a609b051d5209eadf7162c4c11fe",
+  "notes": "15.0.12: 카메라 사진이 채팅에 안 뜨던 문제 수정",
+  "size": 6005890
 }
