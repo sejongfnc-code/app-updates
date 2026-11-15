@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "15.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/plantwater-v15.0.1/plantwater-15.0.1.apk",
-  "sha256": "bf35fa87a84f191fa631b384f10fff85645a1bc81eeb97527ee4d15083491ab0",
-  "notes": "첫 버전",
-  "size": 18489121
+  "versionCode": 2,
+  "versionName": "15.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/plantwater-v15.0.2/plantwater-15.0.2.apk",
+  "sha256": "94796c6a72580bd8d80f397464da2da63e3e1f03278e6cecd945d70f82a1fa54",
+  "notes": "새 업데이트 주소(sejongfnc-code/app-updates)",
+  "size": 18489117
 }
