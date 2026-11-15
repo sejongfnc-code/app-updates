@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "15.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/photodiary-v15.0.1/photodiary-15.0.1.apk",
-  "sha256": "c2b6f1b971b60f19a25871984f1ff6d237f9246193eed0789c4f732c7f62a75c",
-  "notes": "15.0.1",
+  "versionCode": 2,
+  "versionName": "15.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/photodiary-v15.0.2/photodiary-15.0.2.apk",
+  "sha256": "8e7d6c4e781deba78c51e0d20b8cefff1ff10ce18f85634ad37b67362e333dde",
+  "notes": "새 업데이트 주소(sejongfnc-code/app-updates) · 주요 버튼 아래 고정(작은 폰·큰 글씨)",
   "size": 3619612
 }
