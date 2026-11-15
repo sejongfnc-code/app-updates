@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "15.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.9/madenglish-15.0.9.apk",
-  "sha256": "62f1e068b29fdd45e7e861aa18d3e758e5d47c3ecbdca9481630bcdd93c37db1",
-  "notes": "15.0.9: 점수대·흐름별 쌤 멘트 대폭 추가, 19금 모드 플러팅 멘트·19금 쌤 사진, 설정 톱니바퀴 버튼",
-  "size": 2652721
+  "versionCode": 10,
+  "versionName": "15.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.10/madenglish-15.0.10.apk",
+  "sha256": "69eb3ff3670b9be35bdfe545c9d9c02fa9b1e42159ac56edeb6e93845d7ee491",
+  "notes": "15.0.10: 반 고르기가 처음 화면(메인). 공부·요약 화면 뒤로가기 → 반 고르기, 메인에서 뒤로가기 → 종료",
+  "size": 2654813
 }
