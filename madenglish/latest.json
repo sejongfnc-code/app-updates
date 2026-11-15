@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "15.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.2/madenglish-15.0.2.apk",
-  "sha256": "56b54b945d0d3169869dfaf5e4770e00c21751bc483561939fd64dd1026efbcc",
-  "notes": "새 업데이트 주소(sejongfnc-code/app-updates) · 주요 버튼 아래 고정(작은 폰·큰 글씨)",
-  "size": 2209665
+  "versionCode": 3,
+  "versionName": "15.0.3",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.3/madenglish-15.0.3.apk",
+  "sha256": "198f2ce7bc5f4edad73165ee0ac425c784cd8075b580d598a2c1c8c0180e1383",
+  "notes": "15.0.3: 따라 말하기 채점 고침(멈춤 해결·점수 카드·단어 색칠·실시간 받아쓰기), 통과해야 다음/3번 틀리면 건너뛰기, 오늘 수업 요약, 실사 남자/여자 쌤 선택",
+  "size": 2355763
 }
