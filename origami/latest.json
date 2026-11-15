@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "15.0.2",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.2/origami-15.0.2.apk",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.2/origami-15.0.2.apk",
-  "sha256": "73d7dc02c3837d12c54c54f4ab8ac89d12777750676b3839825de825282c474d",
+  "versionCode": 3,
+  "versionName": "15.0.3",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.3/origami-15.0.3.apk",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/origami-v15.0.3/origami-15.0.3.apk",
+  "sha256": "ccd22bda47f854add9f90b89b84c97ee4d1e582fc8ef3a1492ff64c68eb2c2eb",
   "package": "com.smh.origami",
-  "notes": "업데이트 주소 통합 · 주요 버튼 하단 고정",
+  "notes": "다섯 반 모두 처음부터 열림",
   "size": 16457127
 }
