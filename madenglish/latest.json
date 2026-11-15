@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "15.0.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.5/madenglish-15.0.5.apk",
-  "sha256": "daa81ca2007a8adf8821871a0c6733f545735771e785c62387c9552e0b7bb462",
-  "notes": "쌤 멘트를 훨씬 다양하게 늘렸고, 단어마다 전용 구박이 나오게 고쳤어요.",
-  "size": 2388991
+  "versionCode": 6,
+  "versionName": "15.0.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.6/madenglish-15.0.6.apk",
+  "sha256": "0c6d451cca90b3d0533234bd2cb18776fc9834703a758c68753978ef0eb0591b",
+  "notes": "반 고르기(초급·중급·고급·프로)와 '한 판 더'를 넣었어요. 이제 하루 제한 없이 계속 연습할 수 있어요.",
+  "size": 2423467
 }
