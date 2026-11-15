@@ -1,8 +1,8 @@
 {
-  "versionCode": 70008,
-  "versionName": "11.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/fingerlock-v11.0.1/fingerlock-11.0.1.apk",
-  "sha256": "7bd85d9c42f0f65355a3d3fd7d61971436b3bbb3a585c3aeb9712e1c88fc69b2",
-  "notes": "11.0.1",
-  "size": 4362369
+  "versionCode": 70009,
+  "versionName": "15.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/fingerlock-v15.0.1/fingerlock-15.0.1.apk",
+  "sha256": "c363b1921128adab442fc183f3c43e3815a696a59a1b1eb0cfe2d8d3abd35ee1",
+  "notes": "업데이트 주소 변경",
+  "size": 4368101
 }
