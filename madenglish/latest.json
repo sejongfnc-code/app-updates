@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "15.0.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.11/madenglish-15.0.11.apk",
-  "sha256": "6d4aa43eabb29b1cac17672b7a59c1e18d1df700c7aadd04f1ceea751b43057e",
-  "notes": "15.0.11: 들어보기는 영어만 읽기",
-  "size": 2653921
+  "versionCode": 12,
+  "versionName": "15.0.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.12/madenglish-15.0.12.apk",
+  "sha256": "97e421ebd4d8547110b9881b1eb38c58500b18f87edde0753eb4f7ee0828bb15",
+  "notes": "15.0.12: 19금도 반별 진도·문장, 단어·문장 번갈아, 반별 난이도 정리",
+  "size": 2693649
 }
