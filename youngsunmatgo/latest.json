@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "15.0.8",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.8/youngsunmatgo-15.0.8.apk",
-  "sha256": "51312a01d676b12f6d3ed7194c8004e8acf37a25734289dc51973d53d8678d04",
-  "notes": "15.0.8: 친구 대전 멈춤 수정 (무료 서버 한도 초과 시 다른 서버로 다시 보내기), 한 수 10초 제한, 뒤로 한 단계씩, 보고창 제거",
-  "size": 5921925
+  "versionCode": 9,
+  "versionName": "15.0.9",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.9/youngsunmatgo-15.0.9.apk",
+  "sha256": "5bdf75dde6819073c6ab2615c3b14a978113d8ede84f5f8d30ea021b9c061e30",
+  "notes": "15.0.9: 시작 돈 1만원(1점=10원), 게임 중 친구와 채팅·사진(카메라/사진 고르기), 다 잃으면 '소원 들어주면 돌려주마', 추억 앨범, 열받게 하기 😜, 자주 쓰는 버튼 오른쪽",
+  "size": 5952193
 }
