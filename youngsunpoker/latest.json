@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "15.0.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.5/youngsunpoker-15.0.5.apk",
-  "sha256": "9dd116c19163d2f71c1dca37a0c97d8f7e2ba89f4a7f45637508167f7ad19617",
-  "notes": "15.0.5: 시작 돈 1만원(10원부터 베팅), 게임 중 친구와 채팅·사진(카메라/사진 고르기), 다 잃으면 '소원 들어주면 돌려주마', 추억 앨범, 열받게 하기 😜, 자주 쓰는 버튼 오른쪽",
-  "size": 5703247
+  "versionCode": 6,
+  "versionName": "15.0.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.6/youngsunpoker-15.0.6.apk",
+  "sha256": "9894d6a60a0a321169f3ae5194bcc1b713a1358b6ec2bdc5634a736e4f2e464e",
+  "notes": "15.0.6: 체크 뒤 상대가 걸면 콜 버튼이 바로 눌리게, 게임 템포 약 2배 빠르게, 친구 대전은 매번 둘 다 1만원으로 시작",
+  "size": 5704067
 }
