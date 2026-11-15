@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "15.0.8",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.8/youngsunpoker-15.0.8.apk",
-  "sha256": "7392ecbbfecdd9bac9065098a9dbb12114d1c8bd94d9231e315dbdffd00da580",
-  "notes": "15.0.8: 카메라 사진이 채팅에 안 뜨던 문제 수정",
-  "size": 5717115
+  "versionCode": 9,
+  "versionName": "15.0.9",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.9/youngsunpoker-15.0.9.apk",
+  "sha256": "5965a8ca3f0327fd63879d9daf37445e63cb6b53a03ab05cbd1b1f85651d8dea",
+  "notes": "6시간 잠금 없앰(다 잃어도 다음 판 둘 다 10,000원, 예전 잠금 지움) · 앱 안 카메라(찍기/앞뒤 바꾸기)로 사진 바로 채팅에",
+  "size": 5726027
 }
