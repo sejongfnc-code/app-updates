@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "15.0.13",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.13/youngsunmatgo-15.0.13.apk",
-  "sha256": "be643e11fef8a55f962619967a1cf377c430dbd3432d82c0b6cb1b51a7b3c8f8",
-  "notes": "6시간 잠금 없앰(다 잃어도 다음 판 둘 다 10,000원, 예전 잠금 지움) · 앱 안 카메라(찍기/앞뒤 바꾸기)로 사진 바로 채팅에",
-  "size": 6012954
+  "versionCode": 14,
+  "versionName": "15.0.14",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v15.0.14/youngsunmatgo-15.0.14.apk",
+  "sha256": "5974a8f3a9e573c11430df73856b12f0d053d350da00de54e61b96575e4a4aec",
+  "notes": "옵션 추가: 보너스 패로 상대 피 1장 빼기 (켜기/끄기, 기본 켜기) — 설정·시작 전 고르기에서, 친구 대전은 방장 설정",
+  "size": 6014298
 }
