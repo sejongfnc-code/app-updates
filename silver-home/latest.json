@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "14.1.7",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.7/silver-home-14.1.7.apk",
-  "notes": "잠금 풀면 메인 바로 열기·뒤로가기 한 단계씩·보고창 숨김",
-  "sha256": "960c7fa17ca6e28b496155acb3d98c2a6574b6190736157692bdff3dca6c4138",
-  "size": 38350530
+  "versionCode": 20,
+  "versionName": "14.1.8",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.8/silver-home-14.1.8.apk",
+  "notes": "설정 톱니바퀴 추가·잠금 풀 때마다 메인 열기 수정",
+  "sha256": "5b006480d6e0cd2477c519cf1a3d4a4773d219e05fae62baa6aa1facac83ece2",
+  "size": 38350542
 }
