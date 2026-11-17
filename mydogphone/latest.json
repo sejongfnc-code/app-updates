@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "14.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.9/mydogphone-14.0.9.apk",
-  "sha256": "7169414f9ebea31a1a9152480960b6260feae8800dc7939f5d229cad12640ef6",
-  "notes": "업데이트 주소를 새 저장소로 옮겼어요. 보고창은 화면에 안 보이고, 저장·확인 버튼은 아래 바에 고정되며, 뒤로가기는 한 단계씩 메인으로 돌아가요.",
-  "size": 42636981
+  "versionCode": 26,
+  "versionName": "14.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.10/mydogphone-14.0.10.apk",
+  "sha256": "2fb72f93d6ffcee6440b871761dcdb7680f4020bcc6277b664ecd60be0b3314b",
+  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
+  "size": 43070130
 }
