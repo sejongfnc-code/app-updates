@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "14.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.9/mypetphone-14.0.9.apk",
-  "sha256": "b95d9912368db9150ec921bda74fdb83c6750bbf0cc7fd8c7b36009e58cc5b5c",
-  "notes": "업데이트 주소를 새 저장소로 옮겼어요. 보고창은 화면에 안 보이고, 저장·확인 버튼은 아래 바에 고정되며, 뒤로가기는 한 단계씩 메인으로 돌아가요.",
-  "size": 43621880
+  "versionCode": 25,
+  "versionName": "14.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.10/mypetphone-14.0.10.apk",
+  "sha256": "fcde52e19cf703919f6a02b2355eb13623f8de1f5451aed941d81203e98f5f87",
+  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
+  "size": 44488148
 }
