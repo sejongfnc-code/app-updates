@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "14.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.9/mycatphone-14.0.9.apk",
-  "sha256": "49ad9d55d1c53a57e2bf480e81deb302d1f21b58ea70b0c01af971ebf3edc0f0",
-  "notes": "업데이트 주소를 새 저장소로 옮겼어요. 보고창은 화면에 안 보이고, 저장·확인 버튼은 아래 바에 고정되며, 뒤로가기는 한 단계씩 메인으로 돌아가요.",
-  "size": 43131665
+  "versionCode": 55,
+  "versionName": "14.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.10/mycatphone-14.0.10.apk",
+  "sha256": "02d49d3ea243e38de3c24c99dce6c4ff0372df66f50c4af8a3cbe89fe03662d9",
+  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
+  "size": 43564812
 }
