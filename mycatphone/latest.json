@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "14.0.14",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.14/mycatphone-14.0.14.apk",
-  "sha256": "612bec1dfd7852489b9f000746fb93cc00eca4a6c6af1637f94b59dd29db9763",
-  "notes": "영상통화·몰래보기의 장난감 소리를 큰 화면 아래쪽에 두었어요. 잠깐 안 쓰면 살짝만 보이게 흐려지고, 화면이나 버튼을 누르면 다시 선명해져요. 몰래 보기는 영상이 실제로 나온 뒤에만 연결됐다고 표시하고, 안 되면 다시 시도할 수 있어요.",
-  "size": 44649768
+  "versionCode": 60,
+  "versionName": "14.0.15",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.15/mycatphone-14.0.15.apk",
+  "sha256": "674b89d8f80d9cda1f747e25e127c9d47372a14f5fca71d60c53fa1e9773d29c",
+  "notes": "보호자가 보낸 명령에 펫폰 답이 25초 안에 없으면 ‘펫폰 답이 없어요 · 다시’가 바로 나와요. 같은 명령을 다시 받아도 답을 보내고, 일반 폰으로 풀면 주인폰 상태가 바로 바뀌어요.",
+  "size": 44649762
 }

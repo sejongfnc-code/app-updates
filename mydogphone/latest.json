@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "14.0.14",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.14/mydogphone-14.0.14.apk",
-  "sha256": "1a84c028caf361ccccf52f9379523ccd74752bec40107dac665860f7980711e1",
-  "notes": "영상통화·몰래보기의 장난감 소리를 큰 화면 아래쪽에 두었어요. 잠깐 안 쓰면 살짝만 보이게 흐려지고, 화면이나 버튼을 누르면 다시 선명해져요. 몰래 보기는 영상이 실제로 나온 뒤에만 연결됐다고 표시하고, 안 되면 다시 시도할 수 있어요.",
-  "size": 44155095
+  "versionCode": 31,
+  "versionName": "14.0.15",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.15/mydogphone-14.0.15.apk",
+  "sha256": "10e4d396e8a4faed05a98c5d23bc028cf889cc24bf71f3f650b96f9e1db733b6",
+  "notes": "보호자가 보낸 명령에 펫폰 답이 25초 안에 없으면 ‘펫폰 답이 없어요 · 다시’가 바로 나와요. 같은 명령을 다시 받아도 답을 보내고, 일반 폰으로 풀면 주인폰 상태가 바로 바뀌어요.",
+  "size": 44155093
 }
