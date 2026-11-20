@@ -1,0 +1,8 @@
+{
+  "versionCode": 11,
+  "versionName": "20.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v20.0.1/threefingercapture-20.0.1.apk",
+  "sha256": "63484c90b79c5986d3c1b57092fe7bad890f816cc47246bb845be7635814f3a0",
+  "notes": "실행하자마자 꺼지던 문제 수정, 설정 마법사, 앱 안 자동 업데이트",
+  "size": 1798872
+}
