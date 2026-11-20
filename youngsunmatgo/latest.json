@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.6/youngsunmatgo-20.0.6.apk",
-  "sha256": "079c97f7f7c8b7b119adc06fa8ec67b8338a1cb475be8ac29aa97011986dc086",
-  "notes": "3뻑 승리는 처음부터 1·2·3번째 차례 연달아 뻑일 때만 · 판 중간 뻑은 돈도 승리도 없는 그냥 뻑",
-  "size": 6209731
+  "versionCode": 21,
+  "versionName": "20.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.7/youngsunmatgo-20.0.7.apk",
+  "sha256": "539a65309f7b5e6f7b940a6ad3a054aeae02812697b96ee81ad4d3de30bdfe9e",
+  "notes": "광 점수 집 규칙: 비광 낀 4광 3점 (설정에서 보통 4점 고르기)",
+  "size": 6210527
 }
