@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "20.0.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.5/youngsunmatgo-20.0.5.apk",
-  "sha256": "f98c7bb3c4a4fa6088f5ac212de65995dc8c8ce2e8eb0c3fbb5c3152067085a9",
-  "notes": "첫뻑은 첫 차례 뻑만 1,000원 · 둘째 차례도 뻑 2,000원 · 셋째도 뻑이면 승리 · 피 뺏으면 조커 웃음",
-  "size": 6209723
+  "versionCode": 20,
+  "versionName": "20.0.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.6/youngsunmatgo-20.0.6.apk",
+  "sha256": "079c97f7f7c8b7b119adc06fa8ec67b8338a1cb475be8ac29aa97011986dc086",
+  "notes": "3뻑 승리는 처음부터 1·2·3번째 차례 연달아 뻑일 때만 · 판 중간 뻑은 돈도 승리도 없는 그냥 뻑",
+  "size": 6209731
 }
