@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "20.0.7",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.7/youngsunmatgo-20.0.7.apk",
-  "sha256": "539a65309f7b5e6f7b940a6ad3a054aeae02812697b96ee81ad4d3de30bdfe9e",
-  "notes": "광 점수 집 규칙: 비광 낀 4광 3점 (설정에서 보통 4점 고르기)",
-  "size": 6210527
+  "versionCode": 22,
+  "versionName": "20.0.8",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.8/youngsunmatgo-20.0.8.apk",
+  "sha256": "ea2caf86eb3e0f4c8cab6e307ed48dbeffbb3de25744e047cde4efbd62281bab",
+  "notes": "진짜 화투 소리: 패 낼 때 '쵥!', 먹을 때 '착착', 뒤집기 '휙 탁', 뻑·쪽·따닥 세게 (북소리 없앰)",
+  "size": 6157399
 }
