@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "15.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v15.0.10/youngsunpoker-15.0.10.apk",
-  "sha256": "be476f1477ba430de01b30d346dc10f80089a8c8dc570a34ef2fa981e1c3cdaa",
-  "notes": "콜(0원 포함)은 언제나 그 바퀴를 바로 끝냄 — 체크 뒤 콜하면 바로 다음 장, 콜 뒤엔 아무도 못 올림",
-  "size": 5725967
+  "versionCode": 11,
+  "versionName": "20.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v20.0.1/youngsunpoker-20.0.1.apk",
+  "sha256": "8a217d792f343ddde2e547bd26c7100411d4bf3af1231fba9561ac715d265325",
+  "notes": "사진: 게임 안 카메라로 찍으면 내 채팅에 바로 뜨고, 친구가 받을 때까지 계속 보냄(서버 한도 안 넘게). 사진 고르기 없앰",
+  "size": 5725247
 }
