@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "14.0.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.11/mycatphone-14.0.11.apk",
-  "sha256": "d74925ca5f54d9dd7722142f700be25e0194014b9a7c7140028f954a37a88dbe",
-  "notes": "집 폰을 충전에 꽂으면 그날 2~6번 사이에서 횟수를 정하고, 게임 영상을 보다가 아이가 얼굴을 들이밀면 아빠에게 영상통화를 걸어요. 울음이 90초 안으로 3번 이상 이어지면(5분 안) 바로 걸어요.",
-  "size": 43564797
+  "versionCode": 57,
+  "versionName": "14.0.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.12/mycatphone-14.0.12.apk",
+  "sha256": "2a9223aa81d60fb67fc64bcdf0e04682b86916675ca767811a1c3019507e71df",
+  "notes": "놀아주기 화면을 켜거나 충전기를 꽂은 뒤 30분 동안은 자동 영상통화를 걸지 않아요. 한동안(1시간 이상) 꺼져 있다가 다시 켜지면, 그 뒤 1~2시간 안에 한 번 더 걸어 볼 때를 무작위로 정해요.",
+  "size": 43564805
 }
