@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "20.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.3/youngsunmatgo-20.0.3.apk",
-  "sha256": "1a74457fc870f6477f45d398c60007d6796f11f7bdc90f4b51668bf713064dbe",
-  "notes": "바닥 같은 월 석 장을 넷째 장으로 먹으면 피 1장 뺏기, 1점 10/20/30원, 지역 규칙 고르기(국진·5월/7월 열끗 쌍피·멍따·멍박·첫뻑·3뻑·쪽따닥쓸 피·흔들기폭탄·고박), 친구 대전은 방장 규칙",
-  "size": 6038682
+  "versionCode": 18,
+  "versionName": "20.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.4/youngsunmatgo-20.0.4.apk",
+  "sha256": "82b5d6262433bc60242b97e1b0aea6c4bc5aeb71133b0cdcb2e877e6e3d903aa",
+  "notes": "첫뻑 1,000원 · 연뻑 2,000원 · 3뻑 무조건 승리 · 뻑 판에 보너스·뺏은 피 묶기 · 점수 화면 탭하면 바로",
+  "size": 6040794
 }
