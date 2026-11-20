@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "21.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.1/threefingercapture-21.0.1.apk",
-  "sha256": "72958acce0f20f2f3c957d5bf4c79a5491584a42eb6c092fedae386f0192d466",
-  "notes": "이름 '카메라홀터치캡쳐'로 변경. 보이는 버튼 대신 앞카메라 구멍을 톡 누르면 캡쳐. 화면 전체를 이미지로 잘못 자르던 문제 고침. '주변 자동으로 자르기' 켜기/끄기. 저장되면 짧게 한 번 진동",
-  "size": 1752160
+  "versionCode": 14,
+  "versionName": "21.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.2/threefingercapture-21.0.2.apk",
+  "sha256": "e3b47eaaa5cc0345ad39903ef74ad01414f4d48e632c8e62725c66c45d339660",
+  "notes": "알아보기 쉬운 새 아이콘 (폰 앞카메라 구멍을 손가락으로 톡 + 캡쳐 모서리)",
+  "size": 1826100
 }
