@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "20.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.2/youngsunmatgo-20.0.2.apk",
-  "sha256": "9f99643ed6fabdfe4e72d2f6a0eab0c4d44cc01a1069fe06b347e764b0501e17",
-  "notes": "승패 알림(YOU WIN/YOU LOSE), 친구 대전은 늘 10,000원으로 시작, 벌칙 사진으로 바로 돌려받기·봐준다, 벌칙 안 하고 나가면 다음 대전에 2,000원 먼저, 소원 고르기 카드, 사진 글·스티커, 친구별 전적, 복수전, 친구별 추억 앨범",
-  "size": 6029186
+  "versionCode": 17,
+  "versionName": "20.0.3",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.3/youngsunmatgo-20.0.3.apk",
+  "sha256": "1a74457fc870f6477f45d398c60007d6796f11f7bdc90f4b51668bf713064dbe",
+  "notes": "바닥 같은 월 석 장을 넷째 장으로 먹으면 피 1장 뺏기, 1점 10/20/30원, 지역 규칙 고르기(국진·5월/7월 열끗 쌍피·멍따·멍박·첫뻑·3뻑·쪽따닥쓸 피·흔들기폭탄·고박), 친구 대전은 방장 규칙",
+  "size": 6038682
 }
