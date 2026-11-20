@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "20.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.1/youngsunmatgo-20.0.1.apk",
-  "sha256": "ba49e56eeb5e6718716a1aa7a19830fc2f94952b1380bf05bc32e6994d521fc5",
-  "notes": "사진: 게임 안 카메라로 찍으면 내 채팅에 바로 뜨고, 친구가 받을 때까지 계속 보냄(서버 한도 안 넘게). 사진 고르기 없앰. 내 차례에 낼 수 있는 패는 밝게·위로·노란 테두리, 나머지는 어둡게, 누르면 같은 월 바닥 패도 빛남",
-  "size": 6014214
+  "versionCode": 16,
+  "versionName": "20.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.2/youngsunmatgo-20.0.2.apk",
+  "sha256": "9f99643ed6fabdfe4e72d2f6a0eab0c4d44cc01a1069fe06b347e764b0501e17",
+  "notes": "승패 알림(YOU WIN/YOU LOSE), 친구 대전은 늘 10,000원으로 시작, 벌칙 사진으로 바로 돌려받기·봐준다, 벌칙 안 하고 나가면 다음 대전에 2,000원 먼저, 소원 고르기 카드, 사진 글·스티커, 친구별 전적, 복수전, 친구별 추억 앨범",
+  "size": 6029186
 }
