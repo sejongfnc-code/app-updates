@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "20.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v20.0.2/threefingercapture-20.0.2.apk",
-  "sha256": "559d3089b64d49314704be45ace035578471311c761e14f10d58b828463e6ee7",
-  "notes": "설정 순서 고침: (가) 접근성 스위치 한 번 → (나) 앱 정보 ⋮ 제한된 설정 허용 → ② 접근성 켜기. 접근성이 실제로 켜져야만 설정 완료",
-  "size": 1802168
+  "versionCode": 13,
+  "versionName": "21.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.1/threefingercapture-21.0.1.apk",
+  "sha256": "72958acce0f20f2f3c957d5bf4c79a5491584a42eb6c092fedae386f0192d466",
+  "notes": "이름 '카메라홀터치캡쳐'로 변경. 보이는 버튼 대신 앞카메라 구멍을 톡 누르면 캡쳐. 화면 전체를 이미지로 잘못 자르던 문제 고침. '주변 자동으로 자르기' 켜기/끄기. 저장되면 짧게 한 번 진동",
+  "size": 1752160
 }
