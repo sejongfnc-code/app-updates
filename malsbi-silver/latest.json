@@ -1,8 +1,8 @@
 {
-  "versionCode": 105,
-  "versionName": "13.0.12",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/malsbi-silver-v13.0.12/malsbi-silver-13.0.12.apk",
-  "sha256": "8eb707285ecb6014cc146732ccae8f275d812ac19b00e5aee0be311b0e07cc6c",
-  "notes": "통역(실버전화화면), 손글씨 메모 저장·목록, 홈 제목 말숙이 실버, 약 알림 끄기",
-  "size": 50679353
+  "versionCode": 106,
+  "versionName": "20.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/malsbi-silver-v20.0.1/malsbi-silver-20.0.1.apk",
+  "sha256": "730eb7eb689c7538672af5ee8eade2c3f916b87eb8c34340d7b85689699d03ed",
+  "notes": "앱 이름·첫 화면 제목 '말숙이 실버'",
+  "size": 50679361
 }
