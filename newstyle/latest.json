@@ -1,8 +1,8 @@
 {
-  "versionCode": 113,
-  "versionName": "19.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v19.0.1/newstyle-19.0.1.apk",
-  "sha256": "71051ccb22f8fcc838ffcd7ebfc9a6248ef51ad75e87ff19537b8dbc985ca177",
-  "notes": "19.0.1",
-  "size": 3040663
+  "versionCode": 114,
+  "versionName": "20.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v20.0.1/newstyle-20.0.1.apk",
+  "sha256": "acbd5ad33d29ae5102af44398cd010600fbf716d9b851ecd42a99cf581b03be5",
+  "notes": "찰칵 치고 스페이스 누르면 짤깍으로 바뀌던 것 수정",
+  "size": 3040683
 }
