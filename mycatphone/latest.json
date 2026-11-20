@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "14.0.13",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.13/mycatphone-14.0.13.apk",
-  "sha256": "b23c39baf30de22c16fbfa570272ad3cb341a521e49da341f24c2b36be0cb073",
-  "notes": "관찰 창에서 아이가 안 오면 장난감 소리로 다시 불러요. 놀이는 좋아하는 것부터 다양하게 고르고, 장난감 소리는 더 크게 나요. 영상통화에서도 인형 소리를 켤 수 있어요. 주인 폰에서 펫 힐링 음악을 켜고 끌 수 있어요. 잠시 끄기는 1시간·12시간·오늘·다시 켤 때까지이고, 다시 켜면 놀이 화면은 5분 뒤에 떠요.",
-  "size": 44649773
+  "versionCode": 59,
+  "versionName": "14.0.14",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.14/mycatphone-14.0.14.apk",
+  "sha256": "612bec1dfd7852489b9f000746fb93cc00eca4a6c6af1637f94b59dd29db9763",
+  "notes": "영상통화·몰래보기의 장난감 소리를 큰 화면 아래쪽에 두었어요. 잠깐 안 쓰면 살짝만 보이게 흐려지고, 화면이나 버튼을 누르면 다시 선명해져요. 몰래 보기는 영상이 실제로 나온 뒤에만 연결됐다고 표시하고, 안 되면 다시 시도할 수 있어요.",
+  "size": 44649768
 }
