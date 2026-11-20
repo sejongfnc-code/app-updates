@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "14.0.12",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.12/mydogphone-14.0.12.apk",
-  "sha256": "0feb8892fdfad39d15801a1176fe76236bc0ff2a8fa7cfb1d828ee5a6d52c820",
-  "notes": "놀아주기 화면을 켜거나 충전기를 꽂은 뒤 30분 동안은 자동 영상통화를 걸지 않아요. 한동안(1시간 이상) 꺼져 있다가 다시 켜지면, 그 뒤 1~2시간 안에 한 번 더 걸어 볼 때를 무작위로 정해요.",
-  "size": 43070135
+  "versionCode": 29,
+  "versionName": "14.0.13",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.13/mydogphone-14.0.13.apk",
+  "sha256": "b4b8ddb1cb51701e43a9181c8ca86bf9d2c92a265ef9d7c0fb8dcf76f0850581",
+  "notes": "관찰 창에서 아이가 안 오면 장난감 소리로 다시 불러요. 놀이는 좋아하는 것부터 다양하게 고르고, 장난감 소리는 더 크게 나요. 영상통화에서도 인형 소리를 켤 수 있어요. 주인 폰에서 펫 힐링 음악을 켜고 끌 수 있어요. 잠시 끄기는 1시간·12시간·오늘·다시 켤 때까지이고, 다시 켜면 놀이 화면은 5분 뒤에 떠요.",
+  "size": 44138710
 }
