@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "20.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v20.0.2/youngsunpoker-20.0.2.apk",
-  "sha256": "f40ff4c448f3fc8aeeddae0036108e2660084131ba1fc41bd882af00ca94d898",
-  "notes": "승패 알림(YOU WIN/YOU LOSE), 친구 대전은 늘 10,000원으로 시작, 벌칙 사진으로 바로 돌려받기·봐준다, 벌칙 안 하고 나가면 다음 대전에 2,000원 먼저, 소원 고르기 카드, 사진 글·스티커, 친구별 전적, 복수전, 친구별 추억 앨범",
-  "size": 5740111
+  "versionCode": 13,
+  "versionName": "20.0.3",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v20.0.3/youngsunpoker-20.0.3.apk",
+  "sha256": "04584cb7d0dc8a0cf1804e68726a0a773dc27167546a01d268ea0ab55c637764",
+  "notes": "처음 돈 1,000,000원 · 앤티 1,000원 · 카드 고르기 시간 제한(버튼 없음) · 온라인 더 빠르게 · 벌칙 도망자 첫 판 벌칙",
+  "size": 5742555
 }
