@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "14.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.10/mypetphone-14.0.10.apk",
-  "sha256": "fcde52e19cf703919f6a02b2355eb13623f8de1f5451aed941d81203e98f5f87",
-  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
-  "size": 44488148
+  "versionCode": 26,
+  "versionName": "14.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.11/mypetphone-14.0.11.apk",
+  "sha256": "e0ff5bdd80fec1b254670f8c9a59293941fe4e45b135f26540a42abceb79ff1d",
+  "notes": "집 폰을 충전에 꽂으면 그날 2~6번 사이에서 횟수를 정하고, 게임 영상을 보다가 아이가 얼굴을 들이밀면 아빠에게 영상통화를 걸어요. 울음이 90초 안으로 3번 이상 이어지면(5분 안) 바로 걸어요.",
+  "size": 44488151
 }

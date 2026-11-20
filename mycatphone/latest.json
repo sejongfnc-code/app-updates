@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "14.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.10/mycatphone-14.0.10.apk",
-  "sha256": "02d49d3ea243e38de3c24c99dce6c4ff0372df66f50c4af8a3cbe89fe03662d9",
-  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
-  "size": 43564812
+  "versionCode": 56,
+  "versionName": "14.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.11/mycatphone-14.0.11.apk",
+  "sha256": "d74925ca5f54d9dd7722142f700be25e0194014b9a7c7140028f954a37a88dbe",
+  "notes": "집 폰을 충전에 꽂으면 그날 2~6번 사이에서 횟수를 정하고, 게임 영상을 보다가 아이가 얼굴을 들이밀면 아빠에게 영상통화를 걸어요. 울음이 90초 안으로 3번 이상 이어지면(5분 안) 바로 걸어요.",
+  "size": 43564797
 }

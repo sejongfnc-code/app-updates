@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "14.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.10/mydogphone-14.0.10.apk",
-  "sha256": "2fb72f93d6ffcee6440b871761dcdb7680f4020bcc6277b664ecd60be0b3314b",
-  "notes": "잠금 화면에서도 오는 영상통화가 바로 앞에 떠요. 벨소리가 바뀌었고, 27초 동안 안 받으면 자동으로 끊어요.",
-  "size": 43070130
+  "versionCode": 27,
+  "versionName": "14.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.11/mydogphone-14.0.11.apk",
+  "sha256": "0dc6210243046f443d5225257ee05b9e67cf681bdc4b4918ff1f690e32f38d3c",
+  "notes": "집 폰을 충전에 꽂으면 그날 2~6번 사이에서 횟수를 정하고, 게임 영상을 보다가 아이가 얼굴을 들이밀면 아빠에게 영상통화를 걸어요. 울음이 90초 안으로 3번 이상 이어지면(5분 안) 바로 걸어요.",
+  "size": 43070134
 }
