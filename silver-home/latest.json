@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "14.1.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.9/silver-home-14.1.9.apk",
-  "notes": "이름 실버폰메인화면으로 변경·약 알림 켜기/끄기·설정 완료 기준 수정",
-  "sha256": "df67df33a01cead863ed860e0dd47019ca64c31460f28893a26cafc216bf71c6",
-  "size": 38350550
+  "versionCode": 22,
+  "versionName": "14.1.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.10/silver-home-14.1.10.apk",
+  "notes": "이거 얼마?를 사진 찍어 구글 렌즈로 가격 찾기로 바꿈·처음 열 때 홈 위젯 추가 창",
+  "sha256": "2f953669266c2148643b260e8d65ff3b612693ed98e7291fae6c2b147619e795",
+  "size": 38350738
 }
