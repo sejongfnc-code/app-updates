@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "20.0.9",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.9/youngsunmatgo-20.0.9.apk",
-  "sha256": "2dfec4ff2f93bb71438b2735f01797ac3fbe552be9a2de27d7e93b2d7428c128",
-  "notes": "첫뻑 1,000원·연뻑 2,000원을 뻑 난 그때 바로 주고받음 (두 폰 돈 칸 바로) · 결과 화면에 첫뻑/연뻑 줄 · 나가리도 돈 표시",
-  "size": 6158939
+  "versionCode": 24,
+  "versionName": "20.0.10",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.10/youngsunmatgo-20.0.10.apk",
+  "sha256": "10fcd515fe5fe393d3b1033535aae044ca1cce1c7f0cfb5c1349991f0b7cb9a9",
+  "notes": "맞고 20.0.10: 첫 차례 따닥(첫따닥)이면 상대가 바로 1,000원 — 첫뻑처럼 즉시 정산·결과 줄 표시(나가리 포함), 연속 없음.",
+  "size": 6159363
 }
