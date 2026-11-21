@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "14.0.17",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.17/mydogphone-14.0.17.apk",
-  "sha256": "ddb738ee0450bd8989394fa7113c965cc16a61c0a89b5e58a192182070f4fbbd",
-  "notes": "펫폰 앱 소리 −/+를 누르면 마지막 크기가 유지되고, 옛 상태로 되돌아가지 않아요. 힐링 음악·잠재우기·심장·시냇물 버튼은 펫폰에서 소리만 틀고 영상 화면은 열지 않아요. 재생 중에는 ‘🎵 ~ 틀고 있어요’와 끄기 버튼만 보여 줘요.",
-  "size": 44155097
+  "versionCode": 34,
+  "versionName": "14.0.18",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v14.0.18/mydogphone-14.0.18.apk",
+  "sha256": "5a3b512b47e673a92dacf2b4d0a002ec780bdd8230c90e10b11e4d4aab5eb724",
+  "notes": "자동 영상통화를 하루 최소 3번 하도록 했어요. 부족한 횟수는 밤 10시 전에 채워요. 놀이가 끝나도 감지는 계속하고, 일반 폰 모드에서 돌아오면 남은 횟수를 다시 시도해요. 놀이 화면이 켜져 있으면 잠금이 있어도 업데이트를 설치해요. 전화처럼 울리는 알림이 꺼지면 알려 주고, 카메라가 검은 화면이면 다시 찍어요. 힐링은 제목만 두고 영상 버튼 5개(잠재우기·심장·시냇물·새·빗소리)를 무작위로 틀어요. 놀아주기 영상은 빠르게 움직이는 인기 영상으로 골랐어요.",
+  "size": 44171496
 }
