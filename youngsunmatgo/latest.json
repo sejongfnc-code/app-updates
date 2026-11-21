@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "20.0.8",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.8/youngsunmatgo-20.0.8.apk",
-  "sha256": "ea2caf86eb3e0f4c8cab6e307ed48dbeffbb3de25744e047cde4efbd62281bab",
-  "notes": "진짜 화투 소리: 패 낼 때 '쵥!', 먹을 때 '착착', 뒤집기 '휙 탁', 뻑·쪽·따닥 세게 (북소리 없앰)",
-  "size": 6157399
+  "versionCode": 23,
+  "versionName": "20.0.9",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.9/youngsunmatgo-20.0.9.apk",
+  "sha256": "2dfec4ff2f93bb71438b2735f01797ac3fbe552be9a2de27d7e93b2d7428c128",
+  "notes": "첫뻑 1,000원·연뻑 2,000원을 뻑 난 그때 바로 주고받음 (두 폰 돈 칸 바로) · 결과 화면에 첫뻑/연뻑 줄 · 나가리도 돈 표시",
+  "size": 6158939
 }
