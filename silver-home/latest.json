@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "14.1.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.10/silver-home-14.1.10.apk",
-  "notes": "이거 얼마?를 사진 찍어 구글 렌즈로 가격 찾기로 바꿈·처음 열 때 홈 위젯 추가 창",
-  "sha256": "2f953669266c2148643b260e8d65ff3b612693ed98e7291fae6c2b147619e795",
-  "size": 38350738
+  "versionCode": 23,
+  "versionName": "14.1.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.11/silver-home-14.1.11.apk",
+  "notes": "큰 글씨·화면 확대에서 글자 잘림·겹침을 고침(시계 두 줄, 위젯 ⓘ 화면에서만 제거, 설정·약 알림 버튼 하단 고정)",
+  "sha256": "d58a16d77b0d15e7ba632cfd67cec3ba67b46e20700426b64a6b7a3d73a199b6",
+  "size": 38350934
 }
