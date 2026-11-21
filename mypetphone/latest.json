@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "14.0.16",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.16/mypetphone-14.0.16.apk",
-  "sha256": "3c7f079ebcfe47cc07210e70128f8a9edef0990eee3ac354ac7a0d6c375bbe54",
-  "notes": "자동으로 보내는 사진은 고양이·개가 실제로 보일 때만 보내요. 놀이 화면을 짧게 다시 띄워도 30분 유예가 리셋되지 않아요. 전화처럼 울리는 알림이 꺼져 있으면 ⚠ 설정 필요와 그 설정으로 바로 가는 버튼만 보여 줘요.",
-  "size": 45573113
+  "versionCode": 32,
+  "versionName": "14.0.17",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.17/mypetphone-14.0.17.apk",
+  "sha256": "7b2604577c009b71d019e8f10ac842891f6bdbc55339a429968c70898925f9e0",
+  "notes": "펫폰 앱 소리 −/+를 누르면 마지막 크기가 유지되고, 옛 상태로 되돌아가지 않아요. 힐링 음악·잠재우기·심장·시냇물 버튼은 펫폰에서 소리만 틀고 영상 화면은 열지 않아요. 재생 중에는 ‘🎵 ~ 틀고 있어요’와 끄기 버튼만 보여 줘요.",
+  "size": 45573121
 }

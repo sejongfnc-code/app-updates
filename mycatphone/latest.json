@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "14.0.16",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.16/mycatphone-14.0.16.apk",
-  "sha256": "50dc755149ead44d1bdc847370547120dafc5ab828962d42dd418f9f4ec9db4f",
-  "notes": "자동으로 보내는 사진은 고양이·개가 실제로 보일 때만 보내요. 놀이 화면을 짧게 다시 띄워도 30분 유예가 리셋되지 않아요. 전화처럼 울리는 알림이 꺼져 있으면 ⚠ 설정 필요와 그 설정으로 바로 가는 버튼만 보여 줘요.",
-  "size": 44649763
+  "versionCode": 62,
+  "versionName": "14.0.17",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.17/mycatphone-14.0.17.apk",
+  "sha256": "d835d858b9e7c632c1755b4d5bcdcbcd7305ff4a168692d98f677283b4d2605e",
+  "notes": "펫폰 앱 소리 −/+를 누르면 마지막 크기가 유지되고, 옛 상태로 되돌아가지 않아요. 힐링 음악·잠재우기·심장·시냇물 버튼은 펫폰에서 소리만 틀고 영상 화면은 열지 않아요. 재생 중에는 ‘🎵 ~ 틀고 있어요’와 끄기 버튼만 보여 줘요.",
+  "size": 44649769
 }
