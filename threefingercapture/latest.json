@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "21.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.2/threefingercapture-21.0.2.apk",
-  "sha256": "e3b47eaaa5cc0345ad39903ef74ad01414f4d48e632c8e62725c66c45d339660",
-  "notes": "알아보기 쉬운 새 아이콘 (폰 앞카메라 구멍을 손가락으로 톡 + 캡쳐 모서리)",
-  "size": 1826100
+  "versionCode": 15,
+  "versionName": "21.0.3",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.3/threefingercapture-21.0.3.apk",
+  "sha256": "5b7635bd3ef3ea830f92cd7b0add1ef6c2bffbf8895956eb63735839df6f4ddb",
+  "notes": "캡쳐 저장 진동을 짧고 강하게 딱 한 번으로 바꿈",
+  "size": 1826148
 }
