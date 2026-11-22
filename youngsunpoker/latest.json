@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "20.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v20.0.3/youngsunpoker-20.0.3.apk",
-  "sha256": "04584cb7d0dc8a0cf1804e68726a0a773dc27167546a01d268ea0ab55c637764",
-  "notes": "처음 돈 1,000,000원 · 앤티 1,000원 · 카드 고르기 시간 제한(버튼 없음) · 온라인 더 빠르게 · 벌칙 도망자 첫 판 벌칙",
-  "size": 5742555
+  "versionCode": 14,
+  "versionName": "20.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunpoker-v20.0.4/youngsunpoker-20.0.4.apk",
+  "sha256": "b130456dcf03a73f31bf6de59bedf82877a1324e3efb06a27c6891a35a1372c5",
+  "notes": "포카 20.0.4: 앱 이름이 '굴욕주기 맞포커'로 바뀌었어요. '버릴 카드 1장을 누르세요' 안내가 판돈 상자와 안 겹치고, '내 차례예요' 줄을 없앴어요. 폰 글자 크기 설정이 게임 글자에도 반영돼요(최대 1.3배).",
+  "size": 5744347
 }
