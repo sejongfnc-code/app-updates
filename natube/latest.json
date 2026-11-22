@@ -1,0 +1,8 @@
+{
+  "versionCode": 2302,
+  "versionName": "23.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.2/natube-23.0.2.apk",
+  "sha256": "f783ecc53e6cf0c28a4506c56a1c430687f2fd7cff133131bc85d6285e3c33fc",
+  "notes": "영상·보관함 화면 꺼짐 수정 · 자동 업데이트 추가",
+  "size": 13347449
+}
