@@ -2,7 +2,7 @@
   "versionCode": 2305,
   "versionName": "23.0.5",
   "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.5/natube-23.0.5.apk",
-  "sha256": "953ee791349137ce79fd50f67ba3d03d443421f34fc8e1487f961c9f89b5a145",
-  "notes": "뒤로가기 홈 고정·종료 확인창, 설정 확인 화면(톱니바퀴), 보고 전송 보강",
-  "size": 13369943
+  "sha256": "39d2b7a6af89024ab53f9736273a9161c0eb83637f678842d872cbef05b5b891",
+  "notes": "홈=내 기록 기반 추천 피드(로그인 없음), 뒤로가기 홈 고정·종료 확인창, 설정 확인 화면(톱니바퀴), 보고 전송 보강",
+  "size": 13369936
 }
