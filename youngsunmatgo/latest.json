@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "20.0.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.11/youngsunmatgo-20.0.11.apk",
-  "sha256": "afc03473d263ebe3ca533dc856d92d1c4888f33311b4400ce4a8d5b415a8cbba",
-  "notes": "맞고 20.0.11: 앱 이름이 '친구에게 굴욕주기 맞고'로 바뀌었어요. 폰 글자 크기 설정이 게임 글자에도 반영돼요(최대 1.3배).",
-  "size": 6163339
+  "versionCode": 26,
+  "versionName": "20.0.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.12/youngsunmatgo-20.0.12.apk",
+  "sha256": "364672a8b97af7daabc49bc2a7f12e5736d019290c8d3122f8149fd982dd1a44",
+  "notes": "맞고 20.0.12: 앱 이름이 '굴욕주기 맞고'로 바뀌었어요.",
+  "size": 6164231
 }
