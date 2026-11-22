@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "21.0.7",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.7/threefingercapture-21.0.7.apk",
-  "sha256": "aa0cd42111a733bc01b9f52e55ea34d3cfd174154bc61233065d62c7ce481966",
-  "notes": "삼성 보안폴더 안에서 캡쳐하면 저장 위치를 고를 수 있음. 내부 / 외부 / 둘다 (기본은 내부)",
-  "size": 1871352
+  "versionCode": 20,
+  "versionName": "21.0.8",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.8/threefingercapture-21.0.8.apk",
+  "sha256": "8a648aff48f2b1d3e6d9342971bb748a93551865cda17ad491d5b3205bd62d3b",
+  "notes": "보안폴더 저장 위치 기본을 외부(밖 사진첩)로 바꿈. 내부(보안폴더 안) / 외부(밖 사진첩) / 둘다. 보안폴더 감지 오류를 고쳤고, 캡쳐 알림에 '보안폴더로 보내기' 버튼을 넣음.",
+  "size": 1871764
 }
