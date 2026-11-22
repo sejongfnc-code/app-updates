@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "14.1.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.11/silver-home-14.1.11.apk",
-  "notes": "큰 글씨·화면 확대에서 글자 잘림·겹침을 고침(시계 두 줄, 위젯 ⓘ 화면에서만 제거, 설정·약 알림 버튼 하단 고정)",
-  "sha256": "d58a16d77b0d15e7ba632cfd67cec3ba67b46e20700426b64a6b7a3d73a199b6",
-  "size": 38350934
+  "versionCode": 24,
+  "versionName": "14.1.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/silver-home-v14.1.12/silver-home-14.1.12.apk",
+  "notes": "이 노래 뭐야? 버튼을 넣었어요. 노래를 들려주면 구글 앱(또는 샤잠)이 제목을 찾아 줘요.",
+  "sha256": "48f0c55a776f5cb0c2687bcc16e2f86370ada9493b770e595377c95b6c8e8faa",
+  "size": 38350990
 }
