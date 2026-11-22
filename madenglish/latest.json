@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "15.0.16",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.16/madenglish-15.0.16.apk",
-  "sha256": "ea58acf251d8800cc95e21ce1cbdce297818d30e293402885ae08722a29b1ea9",
-  "notes": "15.0.16: 음성인식 개선(직접 마이크 기본, 한 번 조용히 다시 듣기, 정답 힌트, 짧은 단어 너그럽게), 단어 뒤 짝 문장, 프로반 긴 회화 문장, 진짜 사람 목소리(남/여)",
-  "size": 39307523
+  "versionCode": 17,
+  "versionName": "15.0.17",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/madenglish-v15.0.17/madenglish-15.0.17.apk",
+  "sha256": "0b8b4a0f3ccef4a2c1f59d7ec09ae4dee73c1e2b968e737da903f80144533419",
+  "notes": "15.0.17: 앱 이름을 '섹시한 막말영어쌤'으로 변경, 프로반 긴 문장 글자 크기 맞춤",
+  "size": 39311739
 }
