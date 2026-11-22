@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "22.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v22.0.1/newstyle-22.0.1.apk",
-  "sha256": "d0cec194d6be416ff5d650c43266fd9566c478e5e68c29f6b465e33f895d9906",
-  "notes": "빨리 칠 때 글자가 떨어지던 것(되나→ㄷㅚ나 등) 수정, 바브게→바쁘게, 키 테두리 터치 무시(설정에서 조절)",
-  "size": 3042235
+  "versionCode": 116,
+  "versionName": "22.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v22.0.2/newstyle-22.0.2.apk",
+  "sha256": "bab401748eae0b947d74ecf95c6fcf39fa5edb3815450a824eaf913dcf68c36f",
+  "notes": "납부후가 납붕우로 바뀌던 것 수정, 첫 ㅇ이 빠진 단어(ㅏㄹ려줘→알려줘) 자동수정",
+  "size": 3042859
 }
