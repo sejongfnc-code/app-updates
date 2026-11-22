@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "21.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.6/threefingercapture-21.0.6.apk",
-  "sha256": "f4e0a912b0b88b63f07312ab78a2e589489b43b95231ed8583ddfb119a2b6734",
-  "notes": "손가락을 구멍에 대면 약한 진동이 이어지고, 손을 떼면 캡쳐된 뒤 짧고 강한 진동이 한 번 옴",
-  "size": 1845508
+  "versionCode": 19,
+  "versionName": "21.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.7/threefingercapture-21.0.7.apk",
+  "sha256": "aa0cd42111a733bc01b9f52e55ea34d3cfd174154bc61233065d62c7ce481966",
+  "notes": "삼성 보안폴더 안에서 캡쳐하면 저장 위치를 고를 수 있음. 내부 / 외부 / 둘다 (기본은 내부)",
+  "size": 1871352
 }
