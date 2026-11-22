@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "21.0.4",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.4/threefingercapture-21.0.4.apk",
-  "sha256": "660b56dab60defba3f2775f018ad371528cba10b4ff688a102c77b44b752ab55",
-  "notes": "캡쳐됨 알림을 알림창에 하나만 남기고, 사진 보기와 내 앱 소개 버튼을 달음",
-  "size": 1845444
+  "versionCode": 17,
+  "versionName": "21.0.5",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/threefingercapture-v21.0.5/threefingercapture-21.0.5.apk",
+  "sha256": "9c7fb040bd158b0cf9f0e0d770d4f24549d0bdd109689a745dbef098f245bb3d",
+  "notes": "손가락이 구멍에 닿아 있는 동안 진동이 이어지고, 손을 떼면 멈춘 뒤 저장되면 짧고 강한 진동이 한 번 더 옴",
+  "size": 1845448
 }
