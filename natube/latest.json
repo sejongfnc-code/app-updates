@@ -1,8 +1,8 @@
 {
-  "versionCode": 2304,
-  "versionName": "23.0.4",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.4/natube-23.0.4.apk",
-  "sha256": "d6b187311f01414db08da611794997ca3bd298647ab9d000ca1ca853bbc86a76",
-  "notes": "하단 탭 홈/음악/기록, 자주 듣는 음악·자주 본 영상, 전체화면 아래 스와이프 개선, 보고 전송 강화",
-  "size": 13352717
+  "versionCode": 2305,
+  "versionName": "23.0.5",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.5/natube-23.0.5.apk",
+  "sha256": "953ee791349137ce79fd50f67ba3d03d443421f34fc8e1487f961c9f89b5a145",
+  "notes": "뒤로가기 홈 고정·종료 확인창, 설정 확인 화면(톱니바퀴), 보고 전송 보강",
+  "size": 13369943
 }
