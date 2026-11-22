@@ -1,8 +1,8 @@
 {
-  "versionCode": 114,
-  "versionName": "20.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v20.0.1/newstyle-20.0.1.apk",
-  "sha256": "acbd5ad33d29ae5102af44398cd010600fbf716d9b851ecd42a99cf581b03be5",
-  "notes": "찰칵 치고 스페이스 누르면 짤깍으로 바뀌던 것 수정",
-  "size": 3040683
+  "versionCode": 115,
+  "versionName": "22.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v22.0.1/newstyle-22.0.1.apk",
+  "sha256": "d0cec194d6be416ff5d650c43266fd9566c478e5e68c29f6b465e33f895d9906",
+  "notes": "빨리 칠 때 글자가 떨어지던 것(되나→ㄷㅚ나 등) 수정, 바브게→바쁘게, 키 테두리 터치 무시(설정에서 조절)",
+  "size": 3042235
 }
