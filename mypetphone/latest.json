@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "14.0.18",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.18/mypetphone-14.0.18.apk",
-  "sha256": "9b9fd5de1b8ae852c31dc56ca5851a2ed79d79507f67966a316e61d14267aa11",
-  "notes": "자동 영상통화를 하루 최소 3번 하도록 했어요. 부족한 횟수는 밤 10시 전에 채워요. 놀이가 끝나도 감지는 계속하고, 일반 폰 모드에서 돌아오면 남은 횟수를 다시 시도해요. 놀이 화면이 켜져 있으면 잠금이 있어도 업데이트를 설치해요. 전화처럼 울리는 알림이 꺼지면 알려 주고, 카메라가 검은 화면이면 다시 찍어요. 힐링은 제목만 두고 영상 버튼 5개(잠재우기·심장·시냇물·새·빗소리)를 무작위로 틀어요. 놀아주기 영상은 빠르게 움직이는 인기 영상으로 골랐어요.",
+  "versionCode": 34,
+  "versionName": "14.0.19",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.19/mypetphone-14.0.19.apk",
+  "sha256": "d4c7cb14ab84b86d57db24127062e78d0bcdca1b00063efffc4b488a7861c974",
+  "notes": "자동 영상통화는 충전과 상관 없이, 놀아주기 화면을 켜 둔 동안만 해요. 화면을 켜면 1~2시간 뒤 첫 칸이 열리고, 건 뒤에는 1~3시간 뒤에 다음 칸이 열립니다. 하루 최대 6번입니다. 칸이 열리면 새 영상으로 아이를 부르고, 화면을 보면 바로 걸어요. 영상 사이에는 화면을 켜 둔 채 잠깐 쉬고 다른 영상으로 이어집니다. 일반 폰 모드에서는 자동 전화를 안 합니다. 못 건 이유와 다음 예정 시각은 보고에 남깁니다.",
   "size": 45573124
 }
