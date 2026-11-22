@@ -1,8 +1,8 @@
 {
-  "versionCode": 2303,
-  "versionName": "23.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.3/natube-23.0.3.apk",
-  "sha256": "039cb090c568c224728175365864d86cefbadbbb01e1c360052314ae9dff8029",
-  "notes": "세로 밀기 소리·밝기 끔 · 두 손가락 꽉 채우기/화면 맞춤 · 항상 최고 화질(4K)",
-  "size": 13348528
+  "versionCode": 2304,
+  "versionName": "23.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.4/natube-23.0.4.apk",
+  "sha256": "d6b187311f01414db08da611794997ca3bd298647ab9d000ca1ca853bbc86a76",
+  "notes": "하단 탭 홈/음악/기록, 자주 듣는 음악·자주 본 영상, 전체화면 아래 스와이프 개선, 보고 전송 강화",
+  "size": 13352717
 }
