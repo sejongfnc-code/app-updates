@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "20.0.10",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.10/youngsunmatgo-20.0.10.apk",
-  "sha256": "10fcd515fe5fe393d3b1033535aae044ca1cce1c7f0cfb5c1349991f0b7cb9a9",
-  "notes": "맞고 20.0.10: 첫 차례 따닥(첫따닥)이면 상대가 바로 1,000원 — 첫뻑처럼 즉시 정산·결과 줄 표시(나가리 포함), 연속 없음.",
-  "size": 6159363
+  "versionCode": 25,
+  "versionName": "20.0.11",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/youngsunmatgo-v20.0.11/youngsunmatgo-20.0.11.apk",
+  "sha256": "afc03473d263ebe3ca533dc856d92d1c4888f33311b4400ce4a8d5b415a8cbba",
+  "notes": "맞고 20.0.11: 앱 이름이 '친구에게 굴욕주기 맞고'로 바뀌었어요. 폰 글자 크기 설정이 게임 글자에도 반영돼요(최대 1.3배).",
+  "size": 6163339
 }
