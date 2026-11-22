@@ -1,8 +1,8 @@
 {
-  "versionCode": 116,
-  "versionName": "22.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v22.0.2/newstyle-22.0.2.apk",
-  "sha256": "bab401748eae0b947d74ecf95c6fcf39fa5edb3815450a824eaf913dcf68c36f",
-  "notes": "납부후가 납붕우로 바뀌던 것 수정, 첫 ㅇ이 빠진 단어(ㅏㄹ려줘→알려줘) 자동수정",
-  "size": 3042859
+  "versionCode": 117,
+  "versionName": "23.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.1/newstyle-23.0.1.apk",
+  "sha256": "0129d3b4ce5644de060e7972f75eb0d4c9faceba3db5a7f2c42b428fb00ab07a",
+  "notes": "빨리 칠 때 버벅임 줄임(늦은 커서 보고 확인 가볍게)",
+  "size": 3043155
 }
