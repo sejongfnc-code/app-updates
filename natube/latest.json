@@ -1,8 +1,8 @@
 {
-  "versionCode": 2401,
-  "versionName": "24.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v24.0.1/natube-24.0.1.apk",
-  "sha256": "19d17ffa491785d148075ffd818f001130eae81b135814ffdab496c9a984c644",
-  "notes": "자동재생 연속성(비슷한 영상 이어 재생), 재생 오류 자동 복구·멈춤 감지, 미니창 버튼 항상 표시, 보고 전송 보강",
-  "size": 13370459
+  "versionCode": 2402,
+  "versionName": "24.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v24.0.2/natube-24.0.2.apk",
+  "sha256": "701559f48750c498b1bbabb86dacfd446656a453394b72857e00edea038bb6dc",
+  "notes": "32비트 폰(갤럭시 A6) 지원, 그 외 24.0.1과 동일",
+  "size": 14654969
 }
