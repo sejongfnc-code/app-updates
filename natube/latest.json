@@ -1,8 +1,8 @@
 {
-  "versionCode": 2306,
-  "versionName": "23.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v23.0.6/natube-23.0.6.apk",
-  "sha256": "2ced7d7c16391a499bd7e27230ec3b0edd4bd1a8781702d76adb57546e04c351",
-  "notes": "홈 빈 화면 수정(기본 피드 먼저 표시+관심 영상 상단 추가), 보고 전송 진단",
-  "size": 13369946
+  "versionCode": 2401,
+  "versionName": "24.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v24.0.1/natube-24.0.1.apk",
+  "sha256": "19d17ffa491785d148075ffd818f001130eae81b135814ffdab496c9a984c644",
+  "notes": "자동재생 연속성(비슷한 영상 이어 재생), 재생 오류 자동 복구·멈춤 감지, 미니창 버튼 항상 표시, 보고 전송 보강",
+  "size": 13370459
 }
