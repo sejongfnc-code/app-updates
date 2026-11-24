@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "23.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.1/newstyle-23.0.1.apk",
-  "sha256": "0129d3b4ce5644de060e7972f75eb0d4c9faceba3db5a7f2c42b428fb00ab07a",
-  "notes": "빨리 칠 때 버벅임 줄임(늦은 커서 보고 확인 가볍게)",
-  "size": 3043155
+  "versionCode": 118,
+  "versionName": "23.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.2/newstyle-23.0.2.apk",
+  "sha256": "ce265b117372350b78de73d91d8e8e4587f8936802731ab49746d6a881ab9eb2",
+  "notes": "촉촉해가 쪽쪽해로 바뀌던 것 수정",
+  "size": 3043351
 }
