@@ -1,8 +1,1 @@
-{
-  "versionCode": 2402,
-  "versionName": "24.0.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/natube-v24.0.2/natube-24.0.2.apk",
-  "sha256": "701559f48750c498b1bbabb86dacfd446656a453394b72857e00edea038bb6dc",
-  "notes": "32비트 폰(갤럭시 A6) 지원, 그 외 24.0.1과 동일",
-  "size": 14654969
-}
+{"versionCode":2403,"versionName":"24.0.3","apkUrl":"https://github.com/sejongfnc-code/app-updates/releases/download/natube-v24.0.3/natube-24.0.3.apk","sha256":"99fede307f48fa49a7190a8676c18f330cfe20925ee4ba49ccfcd77339fc25cf","notes":"24.0.3: 화질 자동 조절(32비트 1080p, 디코더 실패 시 낮춤), 음악 이어재생, 미니창 열기/닫기/이동/가장자리 숨김","size":14671338}
