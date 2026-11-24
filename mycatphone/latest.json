@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "14.0.19",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.19/mycatphone-14.0.19.apk",
-  "sha256": "921c40845f9e9f644ce7f73f1ba67d337a5172a6dc75eb0dafbf063ba2b01f6c",
-  "notes": "자동 영상통화는 충전과 상관 없이, 놀아주기 화면을 켜 둔 동안만 해요. 화면을 켜면 1~2시간 뒤 첫 칸이 열리고, 건 뒤에는 1~3시간 뒤에 다음 칸이 열립니다. 하루 최대 6번입니다. 칸이 열리면 새 영상으로 아이를 부르고, 화면을 보면 바로 걸어요. 영상 사이에는 화면을 켜 둔 채 잠깐 쉬고 다른 영상으로 이어집니다. 일반 폰 모드에서는 자동 전화를 안 합니다. 못 건 이유와 다음 예정 시각은 보고에 남깁니다.",
-  "size": 44666150
+  "versionCode": 65,
+  "versionName": "14.0.20",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mycatphone-v14.0.20/mycatphone-14.0.20.apk",
+  "sha256": "81776868bf04b8ebc9923d9ee750a4efd99b50e02aa9eb71b17e4381e2886f39",
+  "notes": "자동 영상통화는 놀아주기 화면을 켜 둔 동안, 카메라에서 아이가 실제로 확인됐을 때만 걸어요. 천장이나 큰 물체만 보여도 걸지 않고, 칸이 열려 있으면 아이가 올 때까지 기다립니다. 화면을 켜면 1~2시간 뒤 첫 칸이 열리고, 건 뒤에는 1~3시간 뒤에 다음 칸이 열립니다. 하루 최대 6번입니다. 일반 폰 모드에서는 자동 전화를 안 합니다. 못 건 이유와 시도 줄, 다음 예정 시각은 보고에 남깁니다.",
+  "size": 44666152
 }
