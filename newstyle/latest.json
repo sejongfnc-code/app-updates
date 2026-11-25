@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "23.0.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.3/newstyle-23.0.3.apk",
-  "sha256": "756b25cd97222a6fa57abca93f01f5f34b1cb48979cab558ac4eeb6bf16eecad",
-  "notes": "이모티콘·기호 판 배치 조정",
-  "size": 3043551
+  "versionCode": 120,
+  "versionName": "23.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.4/newstyle-23.0.4.apk",
+  "sha256": "9de0626b59a7803d92c385de2d8464d51a7bce89d45940ba8f4cc02d982a2e70",
+  "notes": "🙇🏻 피부색 정정, 이모티콘 판 빈칸 제거",
+  "size": 3043415
 }
