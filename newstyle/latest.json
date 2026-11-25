@@ -1,8 +1,8 @@
 {
-  "versionCode": 121,
-  "versionName": "23.0.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.5/newstyle-23.0.5.apk",
-  "sha256": "ac652ba0e9d952c8f04add533935a94d7df4898df93b49a090e711ec4c24f587",
-  "notes": "이모티콘 둘째 판을 통째로 삭제",
-  "size": 3043375
+  "versionCode": 122,
+  "versionName": "23.0.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.6/newstyle-23.0.6.apk",
+  "sha256": "116cb26c0b21db8f2bf4c4424137c82f29e08bef121691796144e6d91a9f0be5",
+  "notes": "쥬아해가 쥬앙애로 바뀌던 것 수정",
+  "size": 3043343
 }
