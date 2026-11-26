@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "14.0.12",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/kolivecam-v14.0.12/kolivecam-14.0.12.apk",
-  "sha256": "262a0e84bea6e69a3bed147fc0a53a997796929b32f322cabbf2dd942dba97a5",
-  "notes": "14.0.12 유튜브 기본 화면 표시",
+  "versionCode": 13,
+  "versionName": "14.0.13",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/kolivecam-v14.0.13/kolivecam-14.0.13.apk",
+  "sha256": "9de3bd58c3336db877cad0f4962a09ea07679137366278c2e0eff70a022e1903",
+  "notes": "14.0.13 안드로이드 16 대응(상단·하단 막대 겹침 방지)",
   "size": 17779415
 }
