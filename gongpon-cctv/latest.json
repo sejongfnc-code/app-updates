@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "15.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v15.0.1/gongpon-cctv-15.0.1.apk",
-  "notes": "새 업데이트 주소로 옮김 · 업데이트 확인과 설치 창은 버전당 한 번 · 누르고 말하기 진단 유지",
-  "sha256": "b4156e1db52ed9c485701c2044c0e37e2d7e39307433e57a2de756dd08d11556"
+  "versionCode": 41,
+  "versionName": "16.0.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v16.0.4/gongpon-cctv-16.0.4.apk",
+  "notes": "실시간 화면이 꺼지던 네이티브 오류 수정. 패키지·서명 그대로라 16.0.3 위에 덮어 설치됩니다.",
+  "sha256": "f184e83fc52e887978e30de8ca467d9f3ef9f37e84cad78378815a121c890152"
 }
