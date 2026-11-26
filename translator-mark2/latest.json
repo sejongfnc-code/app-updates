@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "22.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/translator-mark2-v22.0.1/translator-22.0.1.apk",
-  "sha256": "b8b1866127595a16d3339d4e45859ddb84d19420731786ba78057b0d607044e6",
-  "notes": "22.0.1",
-  "size": 25156907
+  "versionCode": 17,
+  "versionName": "26.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/translator-mark2-v26.0.1/translator-26.0.1.apk",
+  "sha256": "e8c34b10d9e7ab60ec06b311e99375ab93752b9f5d4cac8f45824583fd2d8d3a",
+  "notes": "26.0.1",
+  "size": 25173291
 }
