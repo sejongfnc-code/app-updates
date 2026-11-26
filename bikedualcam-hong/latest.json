@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "27.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/bikedualcam-hong-v27.0.1/bikedualcam-hong-27.0.1.apk",
-  "sha256": "4d6d5f5a29b1d748b973ae11178b230106101e772863d99d7850225123099cab",
-  "notes": "바이크 듀얼캠hong 첫 버전(직접 설치): 스토어판과 같은 기능·화면, 평생 이용권과 같이 동작",
-  "size": 2282957
+  "versionCode": 4,
+  "versionName": "27.0.2",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/bikedualcam-hong-v27.0.2/bikedualcam-hong-27.0.2.apk",
+  "sha256": "ef5e546e262c5a684dab292def940f511577dcf07fde52feb8647fd1f413e267",
+  "notes": "바이크 듀얼캠hong 27.0.2: 스토어와 같은 화면(라이트 줄·홍보 카드·평생 버튼). 일반 3일·충격 15일 안내는 보이지만 보관 제한은 적용하지 않음",
+  "size": 2342105
 }
