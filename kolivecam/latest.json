@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "14.0.11",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/kolivecam-v14.0.11/kolivecam-14.0.11.apk",
-  "sha256": "00afbb7ae61a69d9c92761230e255282486da8b47dd5238ca9524aaa9abb11ba",
-  "notes": "14.0.11 앱 이름 '세계 지역 실시간캠 홍', 업데이트 주소 이전",
+  "versionCode": 12,
+  "versionName": "14.0.12",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/kolivecam-v14.0.12/kolivecam-14.0.12.apk",
+  "sha256": "262a0e84bea6e69a3bed147fc0a53a997796929b32f322cabbf2dd942dba97a5",
+  "notes": "14.0.12 유튜브 기본 화면 표시",
   "size": 17779415
 }
