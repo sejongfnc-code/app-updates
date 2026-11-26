@@ -1,8 +1,8 @@
 {
-  "versionCode": 122,
-  "versionName": "23.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.6/newstyle-23.0.6.apk",
-  "sha256": "116cb26c0b21db8f2bf4c4424137c82f29e08bef121691796144e6d91a9f0be5",
-  "notes": "쥬아해가 쥬앙애로 바뀌던 것 수정",
-  "size": 3043343
+  "versionCode": 123,
+  "versionName": "23.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.7/newstyle-23.0.7.apk",
+  "sha256": "5a4b191acb08f1189f4c3f49929e7c96ac484e8e77a3aaf3f18c9046ce36720d",
+  "notes": "소소하네가 소송아네로 바뀌던 것 수정",
+  "size": 3043335
 }
