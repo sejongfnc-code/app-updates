@@ -1,0 +1,8 @@
+{
+  "versionCode": 125,
+  "versionName": "27.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-hong-v27.0.1/newstyle-hong-27.0.1.apk",
+  "sha256": "0cae3ca664a41a091b09d644b258064dc0966ccd380109d87eb2cb7a81cf34b4",
+  "notes": "사용자용 hong판 첫 빌드(새 패키지, 한 번 직접 설치)",
+  "size": 3237615
+}
