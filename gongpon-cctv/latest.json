@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "16.0.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v16.0.5/gongpon-cctv-16.0.5.apk",
-  "notes": "가로 영상을 볼 때 뷰어가 꺼지던 문제 수정. 패키지·서명 그대로라 16.0.4 위에 덮어 설치됩니다.",
-  "sha256": "778527204b6ce92ffb7e2a7b35736998385888c2be4ece0076cf76ae9f4b0cd5"
+  "versionCode": 43,
+  "versionName": "16.0.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v16.0.6/gongpon-cctv-16.0.6.apk",
+  "notes": "실시간 시청 중 뷰어가 꺼지던 문제와 가로 영상이 늘어나던 문제 수정. 패키지·서명 그대로라 16.0.5 위에 덮어 설치됩니다.",
+  "sha256": "7b81f94982cb7b3b5c6211b0caceb854b04e448ffce6da77dd01fb7a71513a3e"
 }
