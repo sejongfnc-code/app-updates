@@ -1,8 +1,8 @@
 {
-  "versionCode": 125,
-  "versionName": "27.0.1",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-hong-v27.0.1/newstyle-hong-27.0.1.apk",
-  "sha256": "0cae3ca664a41a091b09d644b258064dc0966ccd380109d87eb2cb7a81cf34b4",
-  "notes": "사용자용 hong판 첫 빌드(새 패키지, 한 번 직접 설치)",
-  "size": 3237615
+  "versionCode": 126,
+  "versionName": "61010.49.0",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-hong-v61010.49.0/newstyle-hong-61010.49.0.apk",
+  "sha256": "9b79620c72b1045ae9138d7aa4cb1fec5dbf3d94430089a1e14e17ed46f08a69",
+  "notes": "사전 자동 고침 제거, 살짝 밀려도 글자 안 지움, 반응 속도 개선",
+  "size": 3231123
 }
