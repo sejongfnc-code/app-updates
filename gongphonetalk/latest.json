@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "61128.3.0",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.3.0/gongphonetalk-61128.3.0.apk",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.3.0/gongphonetalk-61128.3.0.apk",
-  "sha256": "ecb2d20e02c318cf7d94c99432a2cd7c31d0fe23c3c3b2f85b11c8c33926810f",
+  "versionCode": 5,
+  "versionName": "61128.4.0",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.4.0/gongphonetalk-61128.4.0.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.4.0/gongphonetalk-61128.4.0.apk",
+  "sha256": "6a5e93ade09aca3cf7f25e039d320fb37f19e455c3a64df1c501dc0c58124cf1",
   "package": "com.smh.gongphonetalk",
-  "notes": "친구 탭 내 QR을 닫아 접을 수 있음(다음에 열어도 유지). 설정에서 알림음 6가지+무음을 고르고 미리듣기.",
-  "size": 3447729
+  "notes": "보고를 ntfy와 서버에 함께 보내고, 실패 이유를 남김. 앱 시작 때 버린 설치 세션 때문에 업데이트 창이 다시 안 뜨던 문제를 고침.",
+  "size": 3448413
 }
