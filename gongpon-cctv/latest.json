@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "16.0.6",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v16.0.6/gongpon-cctv-16.0.6.apk",
-  "notes": "실시간 시청 중 뷰어가 꺼지던 문제와 가로 영상이 늘어나던 문제 수정. 패키지·서명 그대로라 16.0.5 위에 덮어 설치됩니다.",
-  "sha256": "7b81f94982cb7b3b5c6211b0caceb854b04e448ffce6da77dd01fb7a71513a3e"
+  "versionCode": 44,
+  "versionName": "16.0.7",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongpon-cctv-v16.0.7/gongpon-cctv-16.0.7.apk",
+  "notes": "움직임 감지를 고쳐서 사람이 지나간 구간이 노란색으로 빠짐없이 표시되고, 실시간·카메라폰 화면에 움직이는 곳에 노란 네모칸이 떠요. 패키지·서명 그대로라 16.0.6 위에 덮어 설치됩니다.",
+  "sha256": "cd842c920082a00c249e368928b5439796d9502f3d1d14bb778a227f3f66201c"
 }
