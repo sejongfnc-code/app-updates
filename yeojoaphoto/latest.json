@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "61128.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.0.1/yeojoaphoto-61128.0.1.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.0.1/yeojoaphoto-61128.0.1.apk",
+  "sha256": "899ec752f0dc3662fc76847308fab69e1f4afba792c1d66a9dd07163fbb8c370",
+  "package": "com.smh.yeojoaphoto.hong",
+  "notes": "첫 버전: 사진 고르기 → ✨ 화사하게 → 저장",
+  "size": 21103406
+}
