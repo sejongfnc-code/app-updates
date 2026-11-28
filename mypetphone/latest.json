@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "14.0.23",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v14.0.23/mypetphone-14.0.23.apk",
-  "sha256": "cdf115b13125bfd9a29bac531dbb69ed99c393bbd805c4ccd31d7985b3171ce6",
-  "notes": "영상통화가 왔을 때 받기만 누르면, 비밀번호를 넣지 않아도 잠금 화면 위에서 바로 통화가 열립니다. 통화가 끝나면 잠금은 그대로 유지됩니다. 연결은 ICE 후보를 최대 1.5초만 모으거나 TURN 후보가 나오는 대로 바로 보내 더 빨리 이어집니다(예전 앱과도 같은 방식으로 연결). 받기·연결 과정의 기록은 초 단위로 남습니다. 외출 감지·칸 알람·하루 2회 규칙은 그대로입니다. 아이는 카메라에 확인된 뒤에만 통화하고, 폰 음량·무음은 바꾸지 않습니다.",
-  "size": 45589554
+  "versionCode": 39,
+  "versionName": "61113.9.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mypetphone-v61113.9.1/mypetphone-61113.9.1.apk",
+  "sha256": "95102a88086c35d91cb658dc9849bf2966f01a5dfe409739fdaa415324283be6",
+  "notes": "일반 화면으로 바꾸면 놀이·자동 통화 칸·불러 모으기가 모두 멈추고 쉽니다(외출 감지·칸 알람으로 풀리지 않음). 보호자 폰 신호가 없고 1시간 동안 소리·화면 켜짐이 없으면 놀이를 다시 켜고 보호자에게 알립니다. 자동 영상통화는 그날 처음 놀이를 켠 뒤 1시간이 지나야 걸고, 하루 2~4번을 남은 시간에 나눠 겁니다. 꺼진 동안 지난 칸은 다시 켜도 바로 열리지 않습니다. 영상통화·몰래보기 소리 버튼 26개를 모두 다른 실제 녹음(CC0)으로 바꿨습니다. 폰 음량·무음은 바꾸지 않습니다.",
+  "size": 45962025
 }
