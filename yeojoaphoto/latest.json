@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "61128.1.5",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.5/yeojoaphoto-61128.1.5.apk",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.5/yeojoaphoto-61128.1.5.apk",
-  "sha256": "57d99f9c8addb0681877df9f0564d4e34a11bc23ee24ad48167858a93473fe87",
+  "versionCode": 8,
+  "versionName": "61128.1.6",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.6/yeojoaphoto-61128.1.6.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.6/yeojoaphoto-61128.1.6.apk",
+  "sha256": "aee33bea870b90fd5fca6e88ca312c9e6e42695f5ad080757659f3bdef7631ea",
   "package": "com.smh.yeojoaphoto",
-  "notes": "두 사람 각각 보정 고침(폰 얼굴인식), 감은 눈 위 하늘색 색조 없앰, 상태 보고 고침",
-  "size": 21403770
+  "notes": "초심플 한 화면 숫자 버튼, 화사함 1~5, 남자 얼굴 뭉개짐 고침(깊은 주름만 정리)",
+  "size": 21403766
 }
