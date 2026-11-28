@@ -1,8 +1,8 @@
 {
-  "versionCode": 124,
-  "versionName": "23.0.8",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v23.0.8/newstyle-23.0.8.apk",
-  "sha256": "40ae62fd55aca4b33e976ea6c37788cf394f9bcd5de52e9ade8845908abf218a",
-  "notes": "차한잔이 창안잔으로 바뀌던 것 수정",
-  "size": 3043123
+  "versionCode": 127,
+  "versionName": "61010.49.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/newstyle-v61010.49.1/newstyle-61010.49.1.apk",
+  "sha256": "def1b2ccc1b247f1544203a090000683b6f7969b35712a8783ddcfa038f95909",
+  "notes": "막는 글자 목록 오타 수정 · 원본 앱 업데이트 재개",
+  "size": 3231135
 }
