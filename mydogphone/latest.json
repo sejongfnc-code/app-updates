@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "61112.9.2",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v61112.9.2/mydogphone-61112.9.2.apk",
-  "sha256": "7818c2828aa1fe014d30625853ebf11bd52e8080820e42139e88498508198d52",
-  "notes": "업데이트가 밀리지 않게 고쳤어요: 화면이 켜지고 잠금이 풀렸을 때만 설치를 시작하고, 더 새 버전이 나오면 예전 버전 받기·설치 대기를 정리해 최신 하나만 설치해요. 펫폰에도 '새 버전이 있어요 · 지금 설치/나중에' 안내 창이 떠요(잠금 화면이면 잠금 위로, 설치는 잠금을 풀면 시작). 보호자 폰의 '지금 놀아주기'가 일반 화면 쉼을 풀어요. 설치 중이나 놀이 화면을 연 직후 화면이 꺼지는 것은 전원 버튼으로 보지 않아요.",
-  "size": 44544016
+  "versionCode": 42,
+  "versionName": "61112.9.3",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/mydogphone-v61112.9.3/mydogphone-61112.9.3.apk",
+  "sha256": "aeb2279dde6c82b6f2b4a3dab7afceb58eceb0e9afa360204544f33f1b390789",
+  "notes": "'지금 놀아주기' 등을 누른 뒤 '보내는 중…'이 30초~1분 가던 지연을 고쳤어요. 서버 3곳 중 한 곳이라도 보내지면 2초만 더 기다리고 바로 넘어가며(버튼이 바로 바뀜), 막힌 서버는 뒤에서 계속 보내요. 보고창에 명령 전송 시간(ms)이 남아요. 폰 음량·무음은 바꾸지 않아요.",
+  "size": 44544007
 }
