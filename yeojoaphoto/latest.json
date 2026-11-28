@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "61128.1.3",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.3/yeojoaphoto-61128.1.3.apk",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.3/yeojoaphoto-61128.1.3.apk",
-  "sha256": "c761d98adec320619f6115f02dfe2a695a09413ee090db40123de8383585fad6",
+  "versionCode": 6,
+  "versionName": "61128.1.4",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.4/yeojoaphoto-61128.1.4.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/yeojoaphoto-v61128.1.4/yeojoaphoto-61128.1.4.apk",
+  "sha256": "0a8a7f0ede3936c9e357e7a57902b3d985d01bd600206d1cd79796e22132ad16",
   "package": "com.smh.yeojoaphoto",
-  "notes": "머리 위 둥근 빛 없앰, 샤프닝·또렷함 줄여 자연스럽게, 주름·접힘·굴곡·패임·잡티 기본으로 다듬음(모공 결은 그대로), 여러 명 사진도 각자 피부색으로",
-  "size": 21387386
+  "notes": "코 입체 그대로(굴곡 고르기에서 코 제외), 여러 명이면 사람마다 따로 고치기(사진 위 얼굴 동그라미로 고름)",
+  "size": 21387382
 }
