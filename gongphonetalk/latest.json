@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "61128.0.1",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.0.1/gongphonetalk-61128.0.1.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.0.1/gongphonetalk-61128.0.1.apk",
+  "sha256": "02e79c434626ee94cee1f697918187484a7f9bf6e1845f13cbf6cc497b2963f5",
+  "package": "com.smh.gongphonetalk",
+  "notes": "공폰톡 첫 버전: 초대 코드로 친구 추가, 1:1 실시간 채팅(종단간 암호화), 대화별 알림 묶음, 설정 마법사, 자동 업데이트",
+  "size": 3127905
+}
