@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "61128.1.0",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.1.0/gongphonetalk-61128.1.0.apk",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.1.0/gongphonetalk-61128.1.0.apk",
-  "sha256": "32361a63d757b9e7c6d30bf4cdfdf4fd8939d3e6f7889d010729bfcca6ee4619",
+  "versionCode": 3,
+  "versionName": "61128.2.0",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.2.0/gongphonetalk-61128.2.0.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.2.0/gongphonetalk-61128.2.0.apk",
+  "sha256": "669a7dc76e24a2975e2536b2f6135730719e7ea4b7f0010caa906400387c5218",
   "package": "com.smh.gongphonetalk",
-  "notes": "QR 코드로 친구 추가: 친구 탭에 내 QR(초대 코드) 표시, 카메라로 비추면 바로 추가. 코드 입력은 그대로.",
-  "size": 3395617
+  "notes": "새 메시지 알림음을 앱 전용 여성 목소리 '공톡!'으로 바꿈",
+  "size": 3405465
 }
