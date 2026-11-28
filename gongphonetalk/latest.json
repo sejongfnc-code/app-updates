@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "61128.2.0",
-  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.2.0/gongphonetalk-61128.2.0.apk",
-  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.2.0/gongphonetalk-61128.2.0.apk",
-  "sha256": "669a7dc76e24a2975e2536b2f6135730719e7ea4b7f0010caa906400387c5218",
+  "versionCode": 4,
+  "versionName": "61128.3.0",
+  "apkUrl": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.3.0/gongphonetalk-61128.3.0.apk",
+  "url": "https://github.com/sejongfnc-code/app-updates/releases/download/gongphonetalk-v61128.3.0/gongphonetalk-61128.3.0.apk",
+  "sha256": "ecb2d20e02c318cf7d94c99432a2cd7c31d0fe23c3c3b2f85b11c8c33926810f",
   "package": "com.smh.gongphonetalk",
-  "notes": "새 메시지 알림음을 앱 전용 여성 목소리 '공톡!'으로 바꿈",
-  "size": 3405465
+  "notes": "친구 탭 내 QR을 닫아 접을 수 있음(다음에 열어도 유지). 설정에서 알림음 6가지+무음을 고르고 미리듣기.",
+  "size": 3447729
 }
